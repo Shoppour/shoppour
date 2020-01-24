@@ -9,4 +9,4 @@
 *.zip
 *.tar*/
 *.py[roc]
-
+env/
